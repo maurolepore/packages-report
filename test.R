@@ -1,1 +1,1 @@
-session_info()
+devtools::session_info()
