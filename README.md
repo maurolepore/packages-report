@@ -3,7 +3,3 @@
 Hello world from my local computer
 
 Hello world from GitHub
-
-MOre
-
-MOre local
