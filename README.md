@@ -152,4 +152,4 @@ Change on past
 
 Change here
 
-Local change
+Local.
