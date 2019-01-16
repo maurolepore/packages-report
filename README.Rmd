@@ -63,5 +63,3 @@ devtools::session_info()
 </details>
 
 *See <https://github.com/jennybc/wtf-packages-report-EXAMPLE> for a fully realized example.*
-
-Lie
