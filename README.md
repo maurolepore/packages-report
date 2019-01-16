@@ -145,3 +145,8 @@ devtools::session_info()
 
 *See <https://github.com/jennybc/wtf-packages-report-EXAMPLE> for a
 fully realized example.*
+
+Hello world from GitHub
+
+Change on past
+
